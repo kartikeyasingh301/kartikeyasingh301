@@ -1,46 +1,125 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Kartikeya Pratap Singh</h1>
 
-<!--
-**kartikeyasingh301/kartikeyasingh301** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
---><h1 align="center">Hi 👋, I'm Kartikeya Pratap Singh</h1>
-<h3 align="center">Computer Science student building full-stack web applications and exploring modern frameworks.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kartikeyasingh301&label=Profile%20views&color=0e75b6&style=flat" alt="kartikeyasingh301" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kartikeyasingh301" alt="kartikeyasingh301" /></a> </p>
-
-- 🔭 I’m currently working on [Pashuraksha](https://github.com/kartikeyasingh301/pashuraksha)
-
-- 🌱 I’m currently learning **React, with HTML/CSS/JavaScript fundamentals**
-
-- 📫 How to reach me **kartikeyasingh301@gmail.com**
-
-- ⚡ Fun fact **My first GitHub project is about protecting animals, so my repo has more cattle than cats.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/kartikeyxsingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kartikeyxsingh" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/kartikeyapratapsingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kartikeyapratapsingh" height="30" width="40" /></a>
-<a href="https://instagram.com/kartikeyaxsingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kartikeyaxsingh" height="30" width="40" /></a>
+<p align="center">
+  <strong>Computer Science Student · Full-Stack Developer · Builder</strong>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="center">
+  I build practical software, explore modern web technologies, and turn ideas into working products.
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kartikeyasingh301&show_icons=true&locale=en&layout=compact" alt="kartikeyasingh301" /></p>
+<p align="center">
+  <a href="https://github.com/kartikeyasingh301">
+    <img src="https://img.shields.io/github/followers/kartikeyasingh301?label=Followers&style=flat-square&logo=github" />
+  </a>
+  <a href="https://github.com/kartikeyasingh301?tab=repositories">
+    <img src="https://img.shields.io/github/stars/kartikeyasingh301?label=Stars&style=flat-square&logo=github" />
+  </a>
+  <a href="mailto:kartikeyasingh301@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail" />
+  </a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kartikeyasingh301&show_icons=true&locale=en" alt="kartikeyasingh301" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kartikeyasingh301&" alt="kartikeyasingh301" /></p>
+## 👨‍💻 About Me
 
+- 🎓 Computer Science student passionate about software development
+- 🚀 Currently building **Pashuraksha — an Animal Health Surveillance & Early Warning System**
+- 🌱 Learning **React, JavaScript and modern full-stack development**
+- 💡 Interested in **Full-Stack Development, AI-powered applications and real-world problem solving**
+- 🛠️ I enjoy building prototypes, experimenting with ideas and turning concepts into usable products
+- 📫 **Email:** [kartikeyasingh301@gmail.com](mailto:kartikeyasingh301@gmail.com)
+
+---
+
+## 🚀 Featured Project
+
+<a href="https://github.com/kartikeyasingh301/pashuraksha">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kartikeyasingh301&repo=pashuraksha&hide_border=true" />
+</a>
+
+### 🐄 Pashuraksha
+
+An **Animal Health Surveillance & Early Warning System** designed to improve disease reporting, risk detection and veterinary response.
+
+**Key areas**
+
+`AI-assisted triage` · `Disease surveillance` · `Geospatial risk mapping` · `Multilingual support` · `Offline-first`
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=kartikeyasingh301&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartikeyasingh301&layout=compact&langs_count=8&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kartikeyasingh301&hide_border=true" />
+</p>
+
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kartikeyasingh301&hide_border=true&area=true" width="100%" />
+</p>
+
+---
+
+## 🧩 GitHub Overview
+
+<p align="center">
+
+<img src="https://img.shields.io/github/repos/kartikeyasingh301?style=for-the-badge&logo=github&label=Repositories" />
+
+<img src="https://img.shields.io/github/commit-activity/y/kartikeyasingh301?style=for-the-badge&logo=github&label=Commits" />
+
+<img src="https://img.shields.io/github/followers/kartikeyasingh301?style=for-the-badge&logo=github&label=Followers" />
+
+</p>
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,javascript" />
+</p>
+
+### Web Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
+</p>
+
+### Tools & Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+---
+
+## 📂 Explore My Work
+
+<p align="center">
+  <a href="https://github.com/kartikeyasingh301?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore%20All%20Repositories-181717?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/kartikeyapratapsingh">
+    <img src="https://img.shields.io/badge/LinkedIn-Kartikeya%20Pratap%20Singh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+ 

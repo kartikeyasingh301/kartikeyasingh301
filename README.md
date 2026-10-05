@@ -67,15 +67,6 @@ report, monitor, and respond to emerging animal-health risks.
 
 ---
 
-## 📈 Contribution Activity
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com/?user=kartikeyasingh301&hide_border=true"
-    width="100%"
-    alt="Kartikeya's GitHub Contribution Activity"
-  />
-</p>
 
 ---
 

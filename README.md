@@ -71,9 +71,9 @@ report, monitor, and respond to emerging animal-health risks.
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=kartikeyasingh301&hide_border=true&area=true"
+    src="https://streak-stats.demolab.com/?user=kartikeyasingh301&hide_border=true"
     width="100%"
-    alt="Kartikeya's GitHub Activity Graph"
+    alt="Kartikeya's GitHub Contribution Activity"
   />
 </p>
 
